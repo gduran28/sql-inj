@@ -622,7 +622,7 @@ app.get('/api/logs', (req, res) => {
 
 app.listen(port, () => {
   console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-  console.log('INYECCIONES SQL - DEMOSTRACION');
+  console.log(' INYECCIONES SQL - DEMOSTRACION');
   console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
   console.log(`📍 http://localhost:${port}`);
   console.log(`📊 http://localhost:${port}/monitor`);
